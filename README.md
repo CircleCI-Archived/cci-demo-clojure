@@ -1,3 +1,7 @@
+# MOVED!
+
+This demo is now [under the CircleCI-Public organization](https://github.com/CircleCI-Public/circleci-demo-clojure-luminus).
+
 # CircleCI Demo Application: Clojure [![CircleCI](https://circleci.com/gh/circleci/cci-demo-clojure.svg?style=svg)](https://circleci.com/gh/circleci/cci-demo-clojure)
 
 This is an example application showcasing how to run a Clojure app on CircleCI 2.0.
